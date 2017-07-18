@@ -1,0 +1,7 @@
+* {
+	margin: 1em;
+	font-family: 'Arial';
+}
+label, input {
+	display: block;
+}
